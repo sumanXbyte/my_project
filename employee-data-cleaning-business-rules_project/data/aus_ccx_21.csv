@@ -1,0 +1,101 @@
+first_name,last_name,email,join_date,salary,remarks,sales,time_productive
+Yuki,Tanaka,yuki34@outlook.com,09/10/2021,,  Good employee,4133,85
+Wei,Singh,wei@gmail.com,09/10/2021,,  Good employee,3138,
+Olga,Kumar,olga@hotmail,02/11/2022,$52872,Needs improvement ,,
+Michael,Singh,michael86@example,Not Available,,Needs improvement ,$3163,83
+Sara,Patel,sara78@yahoo.com,25/06/2021,$78655,,$2915,
+Luis,Kumar,luis@gmail.com,22/07/2023,62016 USD,  Good employee,4641,92
+Fatima,Garcia,fatima@yahoo.com,08/01/2020,,,$2261,
+Anil,Ivanova,anil@,Not Available,$30633,  Good employee,$2371,
+Olga,Smith,olga40@hotmail,Not Available,39705 USD,  Good employee,$4215,122
+Luis,Kumar,luis@outlook.com,Not Available,,,$1278,129 hrs
+Michael,Kumar,michael43@outlook.com,05/11/2024,$87764,,,
+Priya,Garcia,priya@yahoo.com,Not Available,$37084,  Good employee,2588,168 hrs
+Anil,Chen,anil43@hotmail,17/09/2021,,  Good employee,4385,
+Wei,Chen,wei4@gmail.com,09/11/2022,,Needs improvement ,$1263,157
+Michael,Tanaka,michael41@outlook.com,27/06/2021,58479 USD,,1291,85
+Olga,Lee,olga67@example,27/02/2022,,,,
+Priya,Chen,priya16@,Not Available,70839 USD,Needs improvement ,$3865,81 hrs
+Olga,Garcia,olga25@outlook.com,16/04/2022,75692 USD,,$921,91 hrs
+Fatima,Patel,fatima27@outlook.com,11/03/2023,$56612,,3059,87 hrs
+Yuki,Chen,yuki95@yahoo.com,23/06/2022,,,4656,106 hrs
+Sara,Garcia,sara@yahoo.com,Not Available,$70583,,4450,56 hrs
+Wei,Kumar,wei@example,09/07/2024,$31600,  Good employee,3368,
+Anil,Brown,anil52@yahoo.com,Not Available,,  Good employee,$2352,110 hrs
+John,Lee,john7@example,13/05/2024,,  Good employee,715,70
+Sara,Singh,sara97@outlook.com,29/06/2024,,,,57
+Olga,Brown,olga@outlook.com,27/01/2023,,Needs improvement ,$3283,135
+Priya,Garcia,priya10@,Not Available,$61758,Needs improvement ,550,123 hrs
+Priya,Garcia,priya89@yahoo.com,Not Available,$35280,,3783,170 hrs
+Priya,Lee,priya54@outlook.com,14/04/2022,60534 USD,,,51
+John,Tanaka,john@outlook.com,18/02/2022,49569 USD,,$2262,115
+Olga,Tanaka,olga44@,27/03/2021,58562 USD,,$4216,78 hrs
+Fatima,Patel,fatima@example,17/09/2024,$70780,,$3531,110
+John,Lee,john49@hotmail,09/08/2023,$86809,  Good employee,3157,111 hrs
+Anil,Chen,anil11@outlook.com,07/04/2024,79283 USD,  Good employee,,167
+Olga,Smith,olga4@yahoo.com,Not Available,,  Good employee,$1168,
+John,Tanaka,john28@outlook.com,08/11/2020,$61035,,$3973,86 hrs
+Wei,Chen,wei21@hotmail,Not Available,$79016,  Good employee,$3892,
+Yuki,Smith,yuki@yahoo.com,Not Available,54596 USD,  Good employee,2265,
+Yuki,Kumar,yuki@example,28/11/2023,,  Good employee,3327,
+Luis,Ivanova,luis54@outlook.com,16/09/2023,,  Good employee,,71
+Fatima,Chen,fatima67@,30/12/2024,40026 USD,Needs improvement ,3026,
+Yuki,Ivanova,yuki42@yahoo.com,17/09/2022,,  Good employee,3737,149 hrs
+Wei,Singh,wei4@outlook.com,16/03/2024,,Needs improvement ,2174,149 hrs
+Michael,Singh,michael36@example,27/12/2021,,  Good employee,$2593,54 hrs
+Olga,Kumar,olga89@outlook.com,Not Available,,,3187,67
+Anil,Singh,anil40@,11/06/2024,44522 USD,,4574,76
+Luis,Singh,luis90@outlook.com,23/12/2022,,Needs improvement ,,
+Wei,Garcia,wei98@,Not Available,$42621,  Good employee,,
+Priya,Kumar,priya13@yahoo.com,18/09/2022,,Needs improvement ,$1090,
+Priya,Chen,priya7@example,02/01/2021,$76400,Needs improvement ,846,96
+Michael,Singh,michael44@yahoo.com,29/07/2020,48634 USD,  Good employee,$1137,59 hrs
+Wei,Singh,wei88@gmail.com,21/08/2020,$56260,  Good employee,,101
+Michael,Tanaka,michael80@yahoo.com,14/09/2021,66573 USD,,3921,130 hrs
+Fatima,Singh,fatima79@,Not Available,,  Good employee,$670,171 hrs
+Priya,Kumar,priya21@gmail.com,25/06/2021,$40292,Needs improvement ,,98 hrs
+Anil,Tanaka,anil59@gmail.com,20/08/2022,,,$1221,
+Priya,Garcia,priya70@yahoo.com,Not Available,$68652,,$2493,134
+Michael,Garcia,michael73@hotmail,19/08/2024,40873 USD,Needs improvement ,3780,161 hrs
+Sara,Singh,sara57@gmail.com,Not Available,,,,148 hrs
+John,Brown,john87@example,Not Available,$46408,,$2315,
+John,Garcia,john36@yahoo.com,26/03/2023,,,,
+Fatima,Singh,fatima21@hotmail,20/08/2022,51843 USD,Needs improvement ,,
+Anil,Garcia,anil42@gmail.com,Not Available,$32404,Needs improvement ,$3362,70 hrs
+Olga,Smith,olga47@example,Not Available,$60276,Needs improvement ,1709,125 hrs
+Anil,Smith,anil@outlook.com,Not Available,48876 USD,  Good employee,1699,70 hrs
+John,Tanaka,john53@gmail.com,Not Available,,  Good employee,,128 hrs
+Sara,Singh,sara35@outlook.com,28/08/2020,76963 USD,Needs improvement ,,
+Anil,Kumar,anil18@gmail.com,24/07/2022,,Needs improvement ,,139 hrs
+Fatima,Chen,fatima76@example,05/11/2022,30168 USD,,,
+Anil,Patel,anil49@outlook.com,08/01/2023,,Needs improvement ,$1736,
+Priya,Kumar,priya96@outlook.com,17/03/2023,80826 USD,,$4341,
+Fatima,Brown,fatima76@hotmail,Not Available,$39968,  Good employee,,
+Anil,Lee,anil@yahoo.com,13/12/2022,39447 USD,  Good employee,,90
+Anil,Garcia,anil@,Not Available,$56049,,$3042,162
+Fatima,Chen,fatima31@,11/01/2024,$87172,,4202,
+Wei,Kumar,wei13@outlook.com,04/07/2020,,  Good employee,3520,142 hrs
+Wei,Smith,wei32@example,04/04/2020,53492 USD,Needs improvement ,$4653,
+Yuki,Patel,yuki31@outlook.com,14/12/2020,87071 USD,,$836,144 hrs
+Michael,Kumar,michael60@hotmail,30/07/2023,,,,
+Olga,Patel,olga@,23/06/2022,,Needs improvement ,4396,143 hrs
+Anil,Garcia,anil74@hotmail,26/02/2022,45545 USD,,1006,130
+Wei,Smith,wei@,10/09/2023,,  Good employee,,
+Yuki,Singh,yuki25@example,01/09/2024,82555 USD,Needs improvement ,1913,
+Michael,Lee,michael47@,09/07/2023,81682 USD,  Good employee,,80 hrs
+Sara,Garcia,sara47@example,10/03/2024,$41510,,$1800,116
+Wei,Patel,wei@gmail.com,15/08/2024,,Needs improvement ,$2817,123
+Sara,Patel,sara@example,Not Available,74197 USD,Needs improvement ,,81
+Sara,Brown,sara87@hotmail,Not Available,59804 USD,,928,
+Fatima,Chen,fatima@example,09/08/2020,,Needs improvement ,,
+Yuki,Kumar,yuki53@gmail.com,Not Available,,  Good employee,$2827,
+John,Smith,john59@hotmail,15/09/2021,,,1731,124 hrs
+Olga,Brown,olga63@example,Not Available,88026 USD,Needs improvement ,$3365,94 hrs
+Wei,Smith,wei@gmail.com,14/11/2023,$59057,,,180
+Luis,Ivanova,luis@outlook.com,13/08/2023,$56092,  Good employee,,101
+Priya,Tanaka,priya98@example,13/04/2020,,  Good employee,3585,56 hrs
+Yuki,Kumar,yuki77@gmail.com,23/07/2024,$51532,Needs improvement ,,
+Michael,Patel,michael46@yahoo.com,11/01/2023,$37204,,$4665,83
+Luis,Smith,luis96@gmail.com,22/12/2020,78609 USD,Needs improvement ,$3470,
+Anil,Chen,anil@gmail.com,17/11/2022,$59622,,$2254,155 hrs
+Olga,Garcia,olga14@outlook.com,27/07/2022,61390 USD,,4483,82 hrs
